@@ -1,0 +1,23 @@
+{
+    "name": "gsoldateli/blog",
+    "description": "Example blog module",
+    "authors": [
+        {
+            "name": "Guilherme Soldateli",
+            "email": "guilherme@gsoldateli.dev"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Son\\Blog\\": ""
+        }
+    }
+}
